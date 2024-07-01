@@ -1,0 +1,32 @@
+[
+    {
+        "Personal_Info": {
+            "Name": "Apoorav Mukherjee",
+            "Gender": "M",
+            "Phone": 8265826307,
+            "Email": "apooravmukherjee@gmail.com",
+            "Nationality": "Indian",
+            "DOB": "06-01-2005"
+        },
+        "Passport_Info": {
+            "Passport Number": 458475634645,
+            "Country Of Origin": "India",
+            "Expiry Date": "04/25"
+        }
+    },
+    {
+        "Personal_Info": {
+            "Name": "Anant Pareek",
+            "Gender": "M",
+            "Phone": 8532963201,
+            "Email": "anantpareek1666@gmail.com",
+            "Nationality": "Indian",
+            "DOB": "09-01-2006"
+        },
+        "Passport_Info": {
+            "Passport Number": 35468456347,
+            "Country Of Origin": "India",
+            "Expiry Date": "05/26"
+        }
+    }
+]
